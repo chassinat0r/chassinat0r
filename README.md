@@ -18,4 +18,5 @@ Hi, I'm Charlie! I'm a second-year A-Level student aspiring for a career in the 
       <li><img src="https://i.ibb.co/XjFVRvR/discord.png" style="width: 16px; height: 16px;"> Discord: <a href="https://discord.com/users/1081597440819482716">Chassinat0r</a> (link only works in web version)</li>
     </ul>
   </li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/640px-YouTube_play_button_square_%282013-2017%29.svg.png" style="width: 16px; height: 16px;"> <a href="https://www.youtube.com/@chassinat0r">Check out my YouTube channel!</a></li>
 </ul>
