@@ -6,7 +6,7 @@ Hi, I'm Charlie! I'm a second-year A-Level student aspiring for a career in the 
   <li>🔭 I’m currently working on: 
     <ul>
       <li><a href="https://github.com/chassinat0r/nodejs-login-chat-app">Node.js chat app with a login system</a></li>
-      <li>Pixel Quest: 2D multiplayer platform game for my school project</li>
+      <li>Pixel Racer: 2D multiplayer racing game for my A-Level Computer Science project</li>
     </ul>
   </li>
   <li>🌱 I’m currently learning about AI and machine learning through <a href="https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF">IBM's special playlist on the subject</a></li>
