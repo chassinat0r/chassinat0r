@@ -14,7 +14,7 @@ I'm currently learning 2D game development in C using SDL.
 
 ## 📫 How to reach me
 
-<a href="https://x.com/chassinat0r"><img src="https://i.ibb.co/gW1FHZ2/x.png" style="width: 64px; height: 64px;"></a>
+<a href="https://x.com/chasbrainpipe"><img src="https://i.ibb.co/gW1FHZ2/x.png" style="width: 64px; height: 64px;"></a>
 <a href="https://discord.com/users/1081597440819482716"><img src="https://i.ibb.co/XjFVRvR/discord.png" style="width: 64px; height: 64px;"></a>
 
 Discord link only works in web version.
