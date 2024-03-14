@@ -4,9 +4,13 @@ Hi, I'm Charlie. I'm an independent programmer based in England, UK <img src="ht
 
 ## 🔭 What I'm currently working on
 
-<ul>
-  <li><a href="https://github.com/chassinat0r/isometricraft">Isometricraft: Minecraft-like 2.5D game using isometric rendering in C and SDL2</a></li>
-</ul>
+### Isometricraft
+
+<img src="https://camo.githubusercontent.com/235f93a9679c993223d904b20b296155ef2a696d4de1172d6f99307f14277497/68747470733a2f2f692e6962622e636f2f746231424d67372f696d6167652d323032342d30332d31332d3231333433313230322e706e67">
+
+Isometricraft is a Minecraft-like creative building game written in C and SDL2 and using isometric rendering to display the blocks.
+
+<strong><a href="https://github.com/chassinat0r/isometricraft">Repository</a> | <a href="https://github.com/chassinat0r/isometricraft/releases">Download</a></strong>
 
 ## 🌱 What I'm learning
 
@@ -14,9 +18,9 @@ I'm currently learning 2D game development in C using SDL.
 
 ## 📫 How to reach me
 
-<a href="https://discord.com/users/1081597440819482716"><img src="https://i.ibb.co/XjFVRvR/discord.png" style="width: 64px; height: 64px;"></a>
-
-Discord link only works in web version.
+<ul>
+  <li><img src="https://i.ibb.co/XjFVRvR/discord.png" style="width: 16px; height: 16px;"> Discord: chassinat0r</li>
+</ul>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/640px-YouTube_play_button_square_%282013-2017%29.svg.png" style="width: 25px; height: 25px;"> Check out my YouTube channel
 
